@@ -64,6 +64,6 @@ This project is available under the [MIT License](https://opensource.org/license
 
 ## Copyright
 
-© [Year] [Your Full Name] | All rights reserved.
+© [2024] [Dominik] | All rights reserved.
 
 This project is open-source software, and you are welcome to use, modify, and distribute it under the terms of the [MIT License](https://opensource.org/licenses/MIT).
