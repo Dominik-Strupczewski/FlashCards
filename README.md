@@ -58,12 +58,12 @@ There are several areas for improvement in this project, including:
 
 - Custom Flashcard Set Creation: Enabling users to create their own flashcard sets with customized content can enhance the flexibility and utility of the application.
 
-- ## License
+## License
 
-This project is available under the [MIT License](LICENSE.md). Details can be found in the [LICENSE.md](LICENSE.md) file.
+This project is available under the [MIT License](https://opensource.org/licenses/MIT). Details can be found in the [LICENSE.md](https://opensource.org/licenses/MIT) file.
 
 ## Copyright
 
 © [Year] [Your Full Name] | All rights reserved.
 
-This project is open-source software, and you are welcome to use, modify, and distribute it under the terms of the [MIT License](LICENSE.md).
+This project is open-source software, and you are welcome to use, modify, and distribute it under the terms of the [MIT License](https://opensource.org/licenses/MIT).
