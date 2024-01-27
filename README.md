@@ -4,6 +4,17 @@
 
 Flashcards is a simple flashcard study app project. The app allows users to create flashcard sets, browse them, and test their knowledge. This tool can be useful for learning various subjects.
 
+
+## Table of Contents
+
+- [Project Name: Flashcards](#project-name-flashcards)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Requirements](#requirements)
+- [Project Status](#project-status)
+- [Room for Improvement](#room-for-improvement)
+
+  
 ## Features
 
 - Adding flashcard sets.
