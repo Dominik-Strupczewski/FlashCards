@@ -9,6 +9,11 @@ Flashcards is a simple flashcard study app project. The app allows users to crea
 - Testing knowledge with flashcards.
 - account registration and login with tokenization
 
+## Technologies Used
+-Java
+-Angular
+-Ionic
+-PostgreSQL
 
 ## Requirements
 
