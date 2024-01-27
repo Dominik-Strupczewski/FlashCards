@@ -57,3 +57,13 @@ There are several areas for improvement in this project, including:
 - Translating Flashcards into Multiple Languages: Adding multi-language support for flashcards can make the app more accessible to a broader audience.
 
 - Custom Flashcard Set Creation: Enabling users to create their own flashcard sets with customized content can enhance the flexibility and utility of the application.
+
+- ## License
+
+This project is available under the [MIT License](LICENSE.md). Details can be found in the [LICENSE.md](LICENSE.md) file.
+
+## Copyright
+
+© [Year] [Your Full Name] | All rights reserved.
+
+This project is open-source software, and you are welcome to use, modify, and distribute it under the terms of the [MIT License](LICENSE.md).
