@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Flashcards
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card *ngFor="let flashcard of flashcardData" (click)="onFlashcardClick(flashcard)" [class.show-answer]="flashcard === selectedFlashcard && showAnswer" class="button-resize">
+    <ion-card-header>
+      <ion-card-title>{{ flashcard.question }}</ion-card-title>
+    </ion-card-header>
+
+    <ion-card-content *ngIf="showAnswer && flashcard === selectedFlashcard">
+      {{ flashcard.answer }}
+    </ion-card-content>
+  </ion-card>
+</ion-content>

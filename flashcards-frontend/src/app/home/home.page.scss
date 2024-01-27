@@ -1,0 +1,83 @@
+#container {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
+
+.fade-in {
+  animation: fadeInAnimation 1s ease-in;
+  animation-fill-mode: forwards;
+  opacity: 0;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card-header, .card-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+ion-card.show-answer {
+  background-color: green;
+}
+
+ion-card {
+  position: relative;
+  overflow: hidden;
+  transition: background-color 0.3s ease-in-out;
+}
+
+ion-card:hover {
+  background-color: #ffffff;
+}
+
+ion-card-content {
+  transition: transform 0.3s ease-in-out;
+}
+
+ion-card:hover ion-card-content {
+  transform: scale(1.4);
+}
